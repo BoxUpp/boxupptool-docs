@@ -1,0 +1,79 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Boxupp
+keywords: "Boxupp by Paxcel Technologies"
+description: Boxupp by Paxcel Technologies, India allows you to create and manage Development Environments with easy Provisioning and leverage immense power of DevOps tools.
+
+### Build settings
+markdown: kramdown
+highlighter: pygments
+
+navigations: 
+ - 
+  sectionTitle: "Getting Started"
+  urls: 
+   - 
+    url: "/index.html"
+    title: "Pre-requisites to install Boxupp"
+ - 
+  sectionTitle: "Configuring Boxupp"
+  urls: 
+   - 
+    url: "/downloading-configuring.html"
+    title: "Downloading and Configuring Boxupp"
+   - 
+    url: "/running.html"
+    title: "Up and running with Boxupp"
+ -
+  sectionTitle: "Workspaces"
+  urls:
+   -
+    url: "/workspace1.html"
+    title: "Workspaces - First step of the Boxupp Journey"
+ -
+  sectionTitle: "Dashboard"
+  urls:
+   -
+    url: "/walkthroughdashboard.html"
+    title: "Let's walkthrough dashboard"
+ -
+  sectionTitle: "Boxes"
+  urls:
+   -
+    url: "/boxesprovider.html"
+    title: "Creation of Boxes/ Provider Choosen - Docker"
+   -
+    url: "/virtualbox.html"
+    title: "Creation of Boxes / Provider Choosen - VirtualBox"
+ -
+  sectionTitle: "Scripts"
+  urls:
+   -
+    url: "/scriptcreation.html"
+    title: "Introduction to Scripts creation"
+ -
+  sectionTitle: "Modules"
+  urls:
+   -
+    url: "/modules.html"
+    title: "Introduction to Modules"
+ -
+  sectionTitle: "How to provision and deploy"
+  urls:
+   -
+    url: "/provisiondeploy.html"
+    title: "Let's learn how to provision and deploy"
+ -
+  sectionTitle: "Collaborate using Github"
+  urls:
+   -
+    url: "/collaborate.html"
+    title: "Collaborate using Github"
+ -
+  sectionTitle: "Switch workspaces and Gear Icon"
+  urls:
+   -
+    url: "/switchworkspace.html"
+    title: "Switch Workspaces and Gear Icon"
+
