@@ -23,13 +23,13 @@ Similar to the vagrant installation, the  installation robots will check whether
 
 After the installation of  **Vagrant** and **Oracle VM Virtualbox** there  will be a prompt to restart your machine.Restart it and then  go to bin folder  and run **startup.bat**. 
 
-It will show you the following 2 screen and **Boxupp** is all set to run on your local host at : [http://localhost:8585](http://localhost:8585/) . Port number may  vary if you have changed it 
+It will show you the following 2 screen and **Boxupp** is all set to run on your local host at : [http://localhost:8585](http://localhost:8585/){:target="_blank"} . Port number may  vary if you have changed it 
 
 ![boxupplocalhost ](img/boxupplocalhost.jpg){: .img-responsive}
 
 **( Mac-OS X)**
 
-After you have unzipped the package please execute the file “_startup.sh_”  You might get a permission denied error, to resolve this error execute a command “_chmod 777 *_”  and then again run “_startup.sh_” .  This time Boxupp will be successfully installed on your linux or mac  machine and you will be able to run that in the browser at : [http://localhost:8585](http://localhost:8585/)
+After you have unzipped the package please execute the file “_startup.sh_”  You might get a permission denied error, to resolve this error execute a command “_chmod 777 *_”  and then again run “_startup.sh_” .  This time Boxupp will be successfully installed on your linux or mac  machine and you will be able to run that in the browser at : [http://localhost:8585](http://localhost:8585/){:target="_blank"}
 
 ![start](img/start.jpg){: .img-responsive}
 

@@ -6,7 +6,7 @@ page-link: 2
 
 ##Process of Downloading and Installing Boxupp
 
-1. Download Boxupp by  logging onto: [http://www.boxupp.com](http://www.boxupp.com/) and clicking on download button. It will ask you to submit your email address.
+1. Download Boxupp by  logging onto: [http://www.boxupp.com](http://www.boxupp.com/){:target="_blank"} and clicking on download button. It will ask you to submit your email address.
 2. Go to your default download folder and extract the content of downloaded .zip in any directory.
 3. Windows user have to run .bat file and  MacOsx and Linux  users have to run the .sh file to install boxupp.
 

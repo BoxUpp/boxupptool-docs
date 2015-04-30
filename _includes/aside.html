@@ -10,45 +10,5 @@
 		{% endfor %}
 </div>
 
-<div class="option-popup closed">
-  <div class="option-header"> <i class="fa fa-gear"></i> <span>OPTIONS</span> <i class="fa fa-angle-up pull-right"></i> </div>
-  <div class="option-body">
-	</div>
-    <ul>
-      
-      <!-- version selector -->
-      <li>
-        <label>Version</label>
-        <div class="btn-group btn-group-xs pull-right">
-          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"> Select Version <span class="caret"></span> </button>
-          <ul class="dropdown-menu" role="menu">
-            <li class="active"> <a href="#" data-path="manual">3.0 (current)</a> </li>
-            <li> <a class="version-selector" href="#" data-path="v2.6">2.6</a> </li>
-            <li> <a class="version-selector" href="#" data-path="v2.4">2.4</a> </li>
-            <li> <a class="version-selector" href="#" data-path="v2.2">2.2</a> </li>
-          </ul>
-        </div>
-      </li>
-      
-      <!-- format selector -->
-      <li>
-        <label>Formats</label>
-        <ul class="formats-list">
-          <li><a href="../../single" target="_blank">HTML</a></li>
-          <li><a href="http://docs.mongodb.org/master/MongoDB-manual.pdf" target="_blank" rel="nofollow">PDF</a></li>
-          <li><a href="http://docs.mongodb.org/master/MongoDB-manual.epub" target="_blank" rel="nofollow">EPUB</a></li>
-        </ul>
-      </li>
-      
-      <!-- contribute -->
-      <li>
-        <label>Contribute</label>
-        <ul class="contribute-list">
-          <li><a class="jira-link jirafeedback" href="[get the PDF]({{ site.url }}/assets/mydoc.pdf)" target="_blank" title="Report a problem with tutorial/backup-with-filesystem-snapshots.txt on Jira">Report a Problem</a></li>
-          <li> <a href="https://github.com/boxuppdocs/boxuppdocs.github.io/edit/master{{ site.branch }}/{{ page.path }}"                
-                class="edit-link" target="_blank" title="Edit tutorial/backup-with-filesystem-snapshots.txt on GitHub"> <span>Edit on Github</span> </a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
+
 </div>
